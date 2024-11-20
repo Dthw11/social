@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "369488257952",
+    "firebase_url": "https://foods-app-addb6-default-rtdb.firebaseio.com",
+    "project_id": "foods-app-addb6",
+    "storage_bucket": "foods-app-addb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369488257952:android:0bfc27b1eb1e6b66f83ac5",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5HeL_uP9ss0Cl6xUgmyiZd94hbNHbZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369488257952:android:230d71da87961ac1f83ac5",
+        "android_client_info": {
+          "package_name": "com.foodappII.foodsappii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5HeL_uP9ss0Cl6xUgmyiZd94hbNHbZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
